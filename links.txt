@@ -1,0 +1,5 @@
+Channel 9 Functional Programming Fundamentals Lectures by Erik Meijer
+https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals
+
+Programming in Haskell by Graham Hutton
+http://www.cs.nott.ac.uk/~pszgmh/pih.html
