@@ -3,3 +3,10 @@ https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-
 
 Programming in Haskell by Graham Hutton
 http://www.cs.nott.ac.uk/~pszgmh/pih.html
+
+International Conference on Function Programming
+http://www.icfpconference.org/index.html
+
+Functional pearls
+https://wiki.haskell.org/Research_papers/Functional_pearls
+http://www.cs.ox.ac.uk/people/jeremy.gibbons/pearls/
